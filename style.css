@@ -8,6 +8,7 @@ body {
     padding: 0;
     background-color: var(--primary-color);
     cursor: pointer;
+    overflow-x: hidden;
 }
 :root {
     --primary-color: black;
