@@ -372,6 +372,7 @@ footer {
 @media (max-width: 450px) {
     body {
         overflow-x: hidden;
+        position: fixed;
         }
     .navlinks a{
         display: none;
