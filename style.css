@@ -98,7 +98,7 @@ body {
     visibility: hidden;
 }
 #showcase{
-    background: url(../img/showcase4.png) no-repeat;
+    background: url(showcase4.png) no-repeat;
     background-size: cover;
     width: 100%;
     min-height: 450px;
