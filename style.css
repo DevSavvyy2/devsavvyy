@@ -313,7 +313,7 @@ footer {
         border: none;
         width: 100%;
         margin-top: -30px;
-        overflow: hidden;
+        
     }
     .text {
         line-height: 2em;
@@ -344,7 +344,7 @@ footer {
         border: none;
         width: 100%;
         margin-top: -30px;
-        overflow: hidden;
+      
     }
     .text {
         line-height: 2em;
@@ -371,7 +371,7 @@ footer {
 }
 @media (max-width: 450px) {
     body {
-        overflow-y: hidden;
+        
         }
     .navlinks a{
         display: none;
