@@ -534,4 +534,6 @@ footer {
     #projects {
         margin: 0;
     }
+    form {
+     width: 50%;
 }
