@@ -536,4 +536,8 @@ footer {
     }
     form {
      width: 50%;
+    }
+    input {
+     width: 95%;
+    }
 }
