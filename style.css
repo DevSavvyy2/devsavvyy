@@ -10,12 +10,12 @@ body {
     cursor: pointer;
 }
 :root {
-    --primary-color: black;
+    --primary-color: #0d1717;
     --secondary-color: snow;
 }
 .light-theme{
     --primary-color: snow; 
-    --secondary-color: black;
+    --secondary-color: #0d1717;
 }  
 
 #sidebar {
